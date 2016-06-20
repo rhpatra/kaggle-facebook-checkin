@@ -1,4 +1,4 @@
-# Kaggle Facebook - Predicting Check In Places #
+# Predicting Facebook Check In Places #
 
 Ever wonder what it's like to work at Facebook? Facebook and Kaggle are launching a machine learning engineering competition for 2016. Trail blaze your way to the top of the leaderboard to earn an opportunity at interviewing for one of the 10+ open roles as a software engineer, working on world class machine learning problems.
 
